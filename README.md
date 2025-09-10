@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Vansh Gill (aka AvinyaXe)
 
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/106849669?v=4" width="120" alt="AvinyaXe GitHub Avatar" style="border-radius:50%;">
+  <img src="https://github.com/AvinyaXe/AvinyaXe/blob/main/Itachi%20Uchiha%20Wallpapers%20Manga.jpg?raw=true" width="120" alt="My GitHub Avatar" style="border-radius:50%;">
 </p>
 
 ---
